@@ -23,3 +23,11 @@ ___
 ___
 This project contains one report page/dashboard.
 ![](images/sales_dashboard.png)
+
+### Which products generated the most revenue?
+![](images/top_5_prod.png)
+__
+# RECOMMENDATIONS & CONCLUSIONS
+___
+> ujadhsdj
+> jsdhjds
